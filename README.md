@@ -2,7 +2,7 @@
 
 Hello there 👋
 
-I am Morozyuk Daniil, a student of SRSPU NPI and developer (generally in web, but also can develop something else)
+There is some info about me
 
 - 🧔 Name: Morozyuk Daniil
 - 🎓 Education: getting bachelor's degree at SRSPU NPI
