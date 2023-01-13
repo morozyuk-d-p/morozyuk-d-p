@@ -1,16 +1,20 @@
-### Hi there 👋
+# About me
 
-<!--
-**morozyuk-d-p/morozyuk-d-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there 👋
 
-Here are some ideas to get you started:
+I am Morozyuk Daniil, a student of SRSPU NPI and developer (generally in web, but also can develop something else)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧔 Name: Morozyuk Daniil
+- 🎓 Education: getting bachelor's degree at SRSPU NPI
+- 💼 Occupation: web-developer (frontend, fullstack)
+- 💬 Languages I speak:
+  - 🇷🇺 Russian (native)
+  - 🇺🇸 English (upper-intermediate)
+  - 🇯🇵 Japanese (very basic)
+- 🌐 Programming languages and frameworks:
+  - Python 3: Django, Flask
+  - Javascript: Vue.JS
+  - HTML/CSS: Bootstrap
+- 📫 How to reach me:
+  - VK: [@morozyuk_dp](https://vk.com/morozyuk_dp)
+  - LinkedIn: [@morozdan2003](https://www.linkedin.com/in/morozdan2003/)
