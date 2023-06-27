@@ -1,9 +1,3 @@
-# About me
-
-Hello there 👋
-
-There is some info about me
-
 - 🧔 Name: Morozyuk Daniil
 - 🎓 Education: getting bachelor's degree at SRSPU NPI
 - 💼 Occupation: web-developer (frontend, fullstack)
