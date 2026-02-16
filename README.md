@@ -1,5 +1,5 @@
 - 🧔 Name: Morozyuk Daniil
-- 🎓 Education: getting bachelor's degree at SRSPU NPI
+- 🎓 Education: getting master's degree at SRSPU NPI
 - 💼 Occupation: web-developer (frontend, fullstack)
 - 💬 Languages I speak:
   - 🇷🇺 Russian (native)
@@ -7,7 +7,7 @@
   - 🇯🇵 Japanese (very basic)
 - 🌐 Programming languages and frameworks:
   - Python 3: Django, Flask
-  - Javascript: Vue.JS
+  - Javascript: Nest.js, Vue.JS
   - HTML/CSS: Bootstrap
 - 📫 How to reach me:
   - VK: [@morozyuk_dp](https://vk.com/morozyuk_dp)
